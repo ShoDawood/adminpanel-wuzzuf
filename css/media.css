@@ -1,0 +1,10 @@
+@media (max-width:1024px){
+    ul.navbar-nav li {
+        padding-right: 0px;
+        padding-left: 0px;
+        margin-left: 0px;
+    }
+    ul.navbar-nav {
+        text-align: left !important;
+    }
+}
